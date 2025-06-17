@@ -1,0 +1,13 @@
+#maincontainer{
+    padding: 50px 10px 50px 10px;
+}
+
+#comingsoon {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+#comingsoon p{
+    font-size: 30px;
+    text-align: center;
+}
